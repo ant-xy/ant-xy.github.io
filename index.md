@@ -28,8 +28,11 @@ Welcome to my Portfolio!
 * Here are the projects and cool things I have made.
 
 ## Floppa Game System
+
+  ![Floppa Images](./images/FloppaShowcase.png)
+  
   * Type: **Commission**
-  * Showcase: [_YouTube Video_]()
+  * Showcase [CLICK HERE]: [_YouTube Video_](https://youtu.be/67LcP2Ave0w)
   * Created a game system inspired by **Raise a Floppa**
   
 ### Features
@@ -39,9 +42,26 @@ Welcome to my Portfolio!
   * NPC dialogue system.
   * Buying and inventory system.
 
+
+## Obstacle Course
+
+![Obstacle Course Map](./images/ObstacleCourseShowcase.png)
+
+* Type: **My Project**
+* Showcase: [_YouTube Video_](https://youtu.be/H7yYtqlhNEY)
+* Game incorporated a fast paced competitive gameplay along with doing parkour.
+
+### Features
+  
+* Round system (2 players to play)
+* Map voting system.
+
 ## Admin Panel
+
+![Admin Panel Picture](./images/BanUIWebsite.png)
+
   * Type: **Commission**
-  * Showcase: [_YouTube Video_]()
+  * Showcase: [_YouTube Video_](https://youtu.be/JJo7vWOocIs)
   * Solve the issue of game moderation with an admin panel!
   
 ### Features
@@ -49,14 +69,3 @@ Welcome to my Portfolio!
   * Bans player across all servers in real time.
   * Player list, to quickly input username.
   
-![Admin Panel Picture](./BanUIWebsite.png)
-
-## Obby Game
-* Type: **My Project**
-* Showcase: [_YouTube Video_]()
-* Game incorporated a fast paced competitive gameplay along with doing parkour.
-
-### Features
-  
-* Round system (2 players to play)
-* Map voting system.
